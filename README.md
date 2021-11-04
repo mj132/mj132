@@ -1,4 +1,4 @@
 - MJ
 - 前端开发工程师
-- vue, js, css3, html5
+- vue, js, sass, node
 - 北京
