@@ -1,4 +1,4 @@
 - MJ
 - 高级前端开发工程师
-- js, vue, react, ts, sass/less, webpack, node
+- js, vue, ts, sass/less, webpack/vite, node
 - 北京
