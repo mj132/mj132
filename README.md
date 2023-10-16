@@ -2,3 +2,4 @@
 - 高级前端开发工程师
 - js, vue, ts, sass/less, webpack/vite, node
 - 北京
+- 微信公众号，小程序，hybrid app内嵌h5页面，后台管理系统，ui组件库，前端监控，webpack插件
